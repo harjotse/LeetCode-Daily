@@ -14,4 +14,5 @@ class Solution {
         return count;
     }
 }
-//https://leetcode.com/problems/maximum-ice-cream-bars/
+//https://leetcode.com/problems/maximum-ice-cream-bars/ 
+//without sorting the main part
